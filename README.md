@@ -1,4 +1,4 @@
-Credit Card Fraud Detection Using Machine Learning
+## Credit Card Fraud Detection Using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green.svg)](https://scikit-learn.org/)
